@@ -408,35 +408,7 @@ Python • Cryptography
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                    PROFILE SUMMARY                               -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">📊 Profile Summary</h2>
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MdIsmail177&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MdIsmail177&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MdIsmail177&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MdIsmail177&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MdIsmail177&theme=tokyonight&utcOffset=5.5"/>
-
-</p>
-
-<br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--                    CONNECT WITH ME                                -->
