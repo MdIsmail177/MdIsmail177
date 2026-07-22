@@ -3,7 +3,7 @@
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Md%20Ismail&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Cyber%20Security%20Student%20|%20Java%20Developer%20|%20Problem%20Solver&descAlignY=60&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Mohamed%20Ismail S&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Cyber%20Security%20Student%20|%20Java%20Developer%20|%20Problem%20Solver&descAlignY=60&descSize=18"/>
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
@@ -11,7 +11,7 @@
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=800&lines=Hey+there%2C+I'm+Md+Ismail+%F0%9F%91%8B;Cyber+Security+Student+%F0%9F%94%90;Java+Developer+%E2%98%95;Problem+Solver+%F0%9F%A7%A9;Always+Learning+New+Things+%F0%9F%9A%80" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=800&lines=Hey+there%2C+I'm+Mohamed+Ismail+%F0%9F%91%8B;Cyber+Security+Student+%F0%9F%94%90;Java+Developer+%E2%98%95;Problem+Solver+%F0%9F%A7%A9;Always+Learning+New+Things+%F0%9F%9A%80" alt="Typing SVG"/>
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
