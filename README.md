@@ -73,7 +73,6 @@ public class MdIsmail {
     };
 
     String[] frontend = {
-        "React.js",
         "HTML5",
         "CSS3",
         "JavaScript"
@@ -82,9 +81,7 @@ public class MdIsmail {
     String[] cybersecurity = {
         "OSINT",
         "Nmap",
-        "Nessus",
-        "Cryptography",
-        "Secure Coding"
+        "Cryptography"
     };
 
     String[] tools = {
